@@ -1,2 +1,3 @@
-# Simplex theme demo site
-A simple example of the [simplex](https://github.com/andreondra/jekyll-theme-simplex) jekyll theme usage.
+# zzi`s personal blog
+
+GitHub Page & jekyll free theme [simplex](https://github.com/andreondra/jekyll-theme-simplex)
